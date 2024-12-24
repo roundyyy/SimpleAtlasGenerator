@@ -2,8 +2,7 @@
 
 A **simple and easy** atlas generator script for Unity that helps you combine **diffuse** (albedo) textures and **normal** maps into a single atlas, drastically reducing draw calls. It automatically updates your scene objects' meshes, UVs, and materials to reference the new atlases.
 
-> **Version:** 0.1  
-> **License:** Free to use for private and commercial projects.
+![UI Preview of Simple Atlas Generator](preview.png)
 
 ---
 
